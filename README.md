@@ -28,6 +28,8 @@ BlockQuote:
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
 
+This is [an example][id] reference-style link.
+
 ***
 
 More lists:
@@ -59,3 +61,7 @@ Ordered lists use numbers followed by periods:
 This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
+
+***
+
+[id]: http://example.com/  "Optional Title Here"
