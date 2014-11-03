@@ -1,5 +1,8 @@
 This is a Markdown Test
 =======================
+This is an H2
+-------------
+###This is an H3#
 
 Use *Markdown* code to create readable documents in Git, or convert Markdown to HTML using Dingus.
 
