@@ -14,13 +14,7 @@ Sometimes you want bullet points:
 * Start a line with a star
 * Profit!
 
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
-  - 
+***
 
 BlockQuote:
 
@@ -30,3 +24,31 @@ BlockQuote:
 > 
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
+
+***
+
+More lists:
+
+*   Red
+*   Green
+*   Blue
+
+is equivalent to:
+
++   Red
++   Green
++   Blue
+
+and:
+
+-   Red
+-   Green
+-   Blue
+
+Ordered lists use numbers followed by periods:
+
+1.  Bird
+2.  McHale
+3.  Parish
+
+***
