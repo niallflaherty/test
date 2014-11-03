@@ -64,4 +64,4 @@ This is [an example](http://example.com/ "Title") inline link.
 
 ***
 
-[id]: http://example.com/  "Optional Title Here"
+[id]: http://google.com/  "Optional Title Here"
